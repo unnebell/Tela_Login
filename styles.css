@@ -18,9 +18,7 @@ body {
     background-size: cover;
 }
 
-
 .container {
-    z-index: 1;
     width: 420px;
     background-color: transparent;
     border: 2px solid rgba(255, 255, 255 .2);
@@ -54,6 +52,7 @@ body {
     font-size: 16px;
     color: #fff;
     padding: 20px 45px 20px 20px;
+    font-weight: 600;
 }
 
 .input-box input:placeholder {
